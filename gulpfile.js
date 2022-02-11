@@ -9,9 +9,9 @@ var sass = require('gulp-sass');
 
 var conf = {
     // JavaScript
-    appName: 'app.jsx',
+    appName: 'App.jsx',
     srcJs: './src/js',
-    destName: 'app.js',
+    destName: 'App.js',
     destJs: './build',
 
     // SASS
